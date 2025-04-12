@@ -39,7 +39,7 @@ HCNM is a biologically inspired model for small-sample image classification, sim
 
 ## Installation
 ```bash
-git clone https://github.com/dqjin416/HCNM
+git clone https://github.com/dqjin416/HCNM.git
 cd HCNM
 conda env create --file environment.yml  # Install dependencies (PyTorch, NumPy, SciPy)
 conda activate HCNM
